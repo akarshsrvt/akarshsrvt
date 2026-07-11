@@ -1,95 +1,102 @@
-<h1 align="center">Hi 👋, I'm Akarsh Srivastav</h1>
-<h3 align="center">Aspiring Software Engineer | AIML Undergraduate | Python Backend Developer</h3>
+# Hi 👋, I'm **Akarsh Srivastav**
+
+<h3 align="center">Aspiring Software Engineer | Python Backend Developer | Data Analytics Enthusiast</h3>
 
 <p align="center">
-  Passionate about building scalable backend applications, AI-powered solutions, and continuously improving my software engineering skills.
+Passionate about building scalable software, solving real-world problems, and continuously improving my engineering skills.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 AIML Undergraduate focused on **Software Engineering**
-- 💻 Currently exploring **Python Backend Development**, REST APIs, and Backend Architecture
-- 🐍 Proficient in **Python Fundamentals**, Object-Oriented Programming, and Problem Solving
-- 🗄️ Strong understanding of **DBMS, SQL, and Database Design**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Backend Systems**
-- 🌱 Currently learning **Data Structures & Algorithms, FastAPI, Flask, and Cloud Technologies**
-- 🚀 Building real-world projects to strengthen practical development skills
-- 🎯 Preparing for **Software Engineer** roles in top product and service-based companies
+* 💻 Currently exploring **Python Backend Development**, REST APIs, and Backend Architecture
+* 📊 Learning **Data Analytics** using **Python, SQL, Pandas, Matplotlib, and Power BI**
+* 🐍 Strong foundation in **Python**, **Object-Oriented Programming (OOP)**, **DBMS**, and **SQL**
+* ⚙️ Interested in **Software Engineering**, **Backend Systems**, **Cloud Computing**, and **System Design**
+* 📚 Continuously improving **Data Structures & Algorithms** and problem-solving skills
+* 🚀 Building real-world projects to strengthen practical development experience
+* 🎯 Preparing for **Software Engineer**, **Backend Developer**, and **Data Analyst** roles
+* ⚡ I believe consistency, discipline, and continuous learning lead to long-term success.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+* Python
+* SQL
 
 ### Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
-### AI / Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+* Flask
+* FastAPI
+* REST APIs
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+### Databases
+
+* MySQL
+
+### Data Analytics
+
+* Pandas
+* NumPy
+* Matplotlib
+* Power BI
 
 ### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+
+* Git
+* GitHub
+* AWS
+* Google Cloud
 
 ---
 
-## 📌 Current Focus
+## 🌱 Currently Learning
 
-- 🔹 Backend Development with Python
-- 🔹 REST API Development
-- 🔹 Data Structures & Algorithms
-- 🔹 Database Optimization
-- 🔹 AI & Machine Learning Projects
-- 🔹 Software Engineering Best Practices
+* Backend Development with Python
+* FastAPI & Flask
+* Data Structures & Algorithms
+* Database Optimization
+* System Design Fundamentals
+* Cloud Technologies (AWS & GCP)
 
 ---
 
-## 📈 GitHub Statistics
+## 📌 Featured Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akarshsrvt&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akarshsrvt&theme=tokyonight" height="170"/>
-</p>
+### 🔹 Insight Pulse
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshsrvt&layout=compact&theme=tokyonight"/>
-</p>
+An AI-powered intelligent assistant that helps users interact with documents, retrieve information, and generate meaningful insights using modern AI techniques.
+
+### 🔹 INSFADE
+
+A Machine Learning-based Insurance Fraud Detection System that analyzes insurance claims and identifies potentially fraudulent activities.
+
+### 🔹 SnapClass
+
+An AI-assisted educational platform focused on improving the online learning experience through intelligent features and automation.
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=akarshsrvt\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=akarshsrvt\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akarshsrvt\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/akarsh-srivastav-89580a266/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:srvtakarsh98@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/akarshsrvt">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+* 💼 LinkedIn: https://www.linkedin.com/in/akarsh-srivastav-89580a266/
+* 💻 GitHub: https://github.com/akarshsrvt
+* 📧 Email: [srvtakarsh98@gmail.com](mailto:srvtakarsh98@gmail.com)
 
 ---
 
-> *"Consistency beats motivation. Keep building, keep learning, and keep improving."* 🚀
+> **"Code. Learn. Build. Improve. Repeat." 🚀**
