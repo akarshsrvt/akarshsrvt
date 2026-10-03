@@ -86,7 +86,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b1535&height=40&section=header&text=Data%20Science%20%26%20Analytics&fontSize=17&fontColor=ff6f61&fontAlignY=55&animation=fadeIn" width="360" alt="Data Science and Analytics"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b1535&height=40&section=header&text=Data%20Science%20and%20Analytics&fontSize=17&fontColor=ff6f61&fontAlignY=55&animation=fadeIn" width="360" alt="Data Science and Analytics"/>
 <br/>
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -106,7 +106,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b1535&height=40&section=header&text=Cloud%20%26%20Deployment&fontSize=17&fontColor=8957e5&fontAlignY=55&animation=fadeIn" width="360" alt="Cloud and Deployment"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b1535&height=40&section=header&text=Cloud%20and%20Deployment&fontSize=17&fontColor=8957e5&fontAlignY=55&animation=fadeIn" width="360" alt="Cloud and Deployment"/>
 <br/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/GOOGLE%20CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
