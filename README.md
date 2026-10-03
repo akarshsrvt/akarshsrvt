@@ -43,21 +43,100 @@ class Akarsh:
 
 ## 🧰 Tech Stack
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b1535&height=56&section=header&text=Tech%20Stack&fontSize=26&fontColor=00f7a5&fontAlignY=52&animation=fadeIn" width="100%" alt="Tech Stack"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=30&lines=Languages;AI+%2F+Machine+Learning" alt="" />
+<!-- ============ 1. LANGUAGES ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b1535&height=38&section=header&text=Languages&fontSize=16&fontColor=58a6ff&fontAlignY=55&animation=fadeIn" width="320" alt="Languages"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<!-- ============ 2. AI / MACHINE LEARNING ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b1535&height=38&section=header&text=AI%20%2F%20Machine%20Learning&fontSize=16&fontColor=58a6ff&fontAlignY=55&animation=fadeIn" width="320" alt="AI / Machine Learning"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+<!-- ============ 3. GENERATIVE AI / LLM / RAG ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b1535&height=38&section=header&text=Generative%20AI%20%2F%20LLM%20%2F%20RAG&fontSize=16&fontColor=00f7a5&fontAlignY=55&animation=fadeIn" width="320" alt="Generative AI / LLM / RAG"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/VECTOR%20SEARCH-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-7C4DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-FF4B4B?style=for-the-badge"/>
+</p>
+
+<!-- ============ 4. BACKEND / WEB DEVELOPMENT ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b1535&height=38&section=header&text=Backend%20%2F%20Web%20Development&fontSize=16&fontColor=f7b500&fontAlignY=55&animation=fadeIn" width="320" alt="Backend / Web Development"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+<!-- ============ 5. DATA SCIENCE & ANALYTICS ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b1535&height=38&section=header&text=Data%20Science%20%26%20Analytics&fontSize=16&fontColor=ff6f61&fontAlignY=55&animation=fadeIn" width="320" alt="Data Science and Analytics"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+<!-- ============ 6. DATABASES ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b1535&height=38&section=header&text=Databases&fontSize=16&fontColor=8957e5&fontAlignY=55&animation=fadeIn" width="320" alt="Databases"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+</p>
+
+<!-- ============ 7. CLOUD & DEPLOYMENT ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b1535&height=38&section=header&text=Cloud%20%26%20Deployment&fontSize=16&fontColor=8957e5&fontAlignY=55&animation=fadeIn" width="320" alt="Cloud and Deployment"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GOOGLE%20CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+<!-- ============ 8. DEVELOPMENT TOOLS ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b1535&height=38&section=header&text=Development%20Tools&fontSize=16&fontColor=00f7a5&fontAlignY=55&animation=fadeIn" width="320" alt="Development Tools"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ANACONDA-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+</p>
 
 <br/>
-
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=00F7A5&center=true&vCenter=true&width=500&height=30&lines=Generative+AI+%2F+LLM+%2F+RAG" alt="" />
 
